@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+My name is Yan. I love Python and OpenSource very much 😎
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have been passionate about programming since childhood. I write my own startups and do freelance work. Come and study in Moscow. I'm learning Python, C/C++, glad to meet you ❤️.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+📱 Telegram: [@JanSavitskiy](https://t.me/JanSavitskiy)
+[savitskiy.log@gmail.com](savitskiy.log@gmail.com)
