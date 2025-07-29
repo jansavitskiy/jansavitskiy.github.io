@@ -13,4 +13,4 @@ I have been passionate about programming since childhood. I write my own startup
 ### Contact me
 
 📱 Telegram: [@JanSavitskiy](https://t.me/JanSavitskiy)
-[savitskiy.log@gmail.com](savitskiy.log@gmail.com)
+📧 Email: [savitskiy.log@gmail.com](savitskiy.log@gmail.com)
