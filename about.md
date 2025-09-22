@@ -8,7 +8,7 @@ My name is Yan. I love Python and OpenSource very much 😎
 
 ### More Information
 
-I have been passionate about programming since childhood. I write my own startups and do freelance work. Come and study in Moscow. I'm learning Python, C/C++, glad to meet you ❤️.
+I have been interested in programming since childhood. I create my own startups and do freelance work. I live and do research in Moscow. My favorite languages are Python, Typescript, and Rust. It is a pleasure to meet you ❤️.
 
 ### Contact me
 
