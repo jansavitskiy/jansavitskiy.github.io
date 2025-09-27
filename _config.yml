@@ -10,6 +10,7 @@ description: I write about the life of pythonists and other evil spirits
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/jansavitskiy.png
+
 #
 # Flags below are optional
 #
@@ -29,7 +30,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -84,15 +84,14 @@ exclude:
   - README.md
   - CNAME
 
-
-# Путь к assets
+# Custom configuration for JavaScript assets
 assets:
   js: assets/js
 
-
+# Custom settings for JavaScript functionality
 custom_settings:
-    enable_animations: true
-    dark_mode: true
-    api_endpoints:
-        posts: "/api/posts.json"
-        search: "/api/search.json"
+  enable_animations: true
+  dark_mode: true
+  api_endpoints:
+    posts: "/api/posts.json"
+    search: "/api/search.json"

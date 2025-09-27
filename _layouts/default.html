@@ -16,16 +16,6 @@
   </head>
 
   <body>
-    {{ content }}
-    
-    <!-- Подключаем JS -->
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-    
-    <!-- Page-specific JS -->
-    {% if page.custom_js %}
-        <script src="{{ page.custom_js | relative_url }}"></script>
-    {% endif %}
-    
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
