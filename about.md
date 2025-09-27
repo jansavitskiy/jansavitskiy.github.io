@@ -12,6 +12,6 @@ I have been interested in programming since childhood. I create my own startups 
 
 ### Contact me
 
-📱 Telegram: [@JanSavitskiy](https://t.me/JanSavitskiy)
+📱 Telegram: [@JanSavitskiy](https://t.me/raffnamalinovom)
 
 📧 Email: [savitskiy.log@gmail.com](savitskiy.log@gmail.com)
